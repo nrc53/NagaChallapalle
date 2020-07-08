@@ -4,6 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>[Training Deep Energy-Based Models with f-Divergence Minimization](https://nrc53.github.io/NagaChallapalle//publications/ISVLSI)</b> <br> 
-<b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
-<i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.
+<b>[X-VS: Crossbar-based Processing-in-Memory Architecture for Video Summarization](https://nrc53.github.io/NagaChallapalle//publications/ISVLSI)</b> <br> 
+<b>Nagadastagiri Challapalle</b>, Makesh Chandran, Sahithi Rampalli, Vijaykrishnan Narayanan.
+<i>IEEE Computer Society Annual Symposium on VLSI</i>. <b>ISVLSI 2020</b>.
