@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Naga Challapalle"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Student, Computer Science"
   location         : "State College, Pennsylvania"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=PmqLzHcAAAAJ&hl=en"
@@ -101,14 +101,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"https://www.linkedin.com/in/nagadastagiri-c-8279b12b/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
