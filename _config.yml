@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nagadastagiri Challapalle"
+title                    : "Nagadastagiri Challapalle (Naga)"
 title_separator          : "-"
 name                     : &name "Naga Challapalle"
 description              : &description "Ph.D student in Penn State, Computer Science and Enginnering Department"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nagadastagiri Challapalle (Naga)"
+  name             : "Naga Challapalle"
   avatar           : "profile.png"
   bio              : "Ph.D. Student, Computer Science"
   location         : "State College, Pennsylvania"
