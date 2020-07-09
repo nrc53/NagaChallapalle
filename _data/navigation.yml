@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Patents"
+    url: /patents/
+
   - title: "Publications"
     url: /publications/
 
