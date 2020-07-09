@@ -20,4 +20,11 @@ author_profile: true
 <b>Nagadastagiri Challapalle</b>, Sahithi Rampalli, Makesh Chandran, Gurpreet Kalsi, Sreenivas Subramoney, John Sampson, Vijaykrishnan Narayanan
 <i> Design, Automation & Test in Europe Conference & Exhibition</i>. <b>DATE 2020</b>.
 
+<b>[Adaptive Neural Network Architectures for Power Aware Inference ](https://ieeexplore.ieee.org/abstract/document/8868173)</b> <br> Skyler Anderson, 
+<b>Nagadastagiri Challapalle</b>, John Sampson, Vijaykrishnan Narayanan
+ <b>IEEE Design & Test 2019</b>.
+
+<b>[Rebooting Our Computing Models](https://ieeexplore.ieee.org/abstract/document/9116469)</b> <br> P. Cadareanu, <b>Nagadastagiri Challapalle</b>,, C. G. Almudever, A. Khanna, A. Raychowdhury, S. Datta, K. Bertels, V. Narayanan, M. DiVentra, P. E. Gaillardon
+<i> Design, Automation & Test in Europe Conference & Exhibition</i>. <b>DATE 2019</b>.
+
 
